@@ -1,1 +1,1 @@
-# Python-Chatbot
+This Python script implements a simple rule-based chatbot that responds to user input with predefined replies. It uses basic keyword matching and string handling to simulate a conversational interface. The program runs in the terminal and loops until the user exits the chat.
